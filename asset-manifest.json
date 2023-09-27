@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/addo/static/js/main.d7a6f275.js",
+    "index.html": "/addo/index.html",
+    "main.d7a6f275.js.map": "/addo/static/js/main.d7a6f275.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d7a6f275.js"
+  ]
+}
